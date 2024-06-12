@@ -1,0 +1,36 @@
+#A{
+    background-color: rgb(33, 30, 30);
+    color:white;
+}  
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+ul{
+    list-style-type:none;
+    display:flex;
+}
+button{
+    background-color: rgb(30, 174, 236);
+    color:white;
+    border-radius: 15px;
+    padding:5px 15px;
+}
+li{
+    padding: 10px;
+}
+#B{
+    background-color: rgb(33, 30, 30);
+    color:white ;
+    margin-top: 100px;
+}
+#C{
+    background-color: rgb(33, 30, 30);
+    color:white ;
+    margin-top: 100px;
+}
+section{
+    margin-top:150px;
+}

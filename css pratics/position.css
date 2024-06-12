@@ -1,0 +1,16 @@
+div{
+    background-color: rgb(96, 43, 146);
+    color:blanchedalmond;
+    height:300px;
+    width:300px;
+    position:sticky;
+    top: 100px;
+   
+    
+}
+section{
+    border:10px solid rgb(0, 0, 0);
+    margin-top:200px;
+
+    
+}
