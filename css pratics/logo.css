@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    background-color: dimgray;
+    color:white;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+select{
+    border:none;
+}
+ul{
+    display:flex
+}
+li{
+    list-style-type: none;
+    padding:20px;
+}
+button{
+    padding: 5px 10px;
+    border-color: white;
+    border-radius: 5px;
+}
+#A{
+    margin-top: 150px;
+    margin-left: 140px;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+section{
+    display:flex;
+
+}
+#B{
+    margin-top: 60px;
+    margin-left: 100px;
+}
